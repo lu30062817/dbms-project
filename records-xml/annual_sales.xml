@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <s_id>s1</s_id>
+    <product_id>pd2</product_id>
+    <year>2020</year>
+    <amount>10000</amount>
+  </row>
+  <row>
+    <s_id>s2</s_id>
+    <product_id>pd3</product_id>
+    <year>2021</year>
+    <amount>9870</amount>
+  </row>
+  <row>
+    <s_id>s3</s_id>
+    <product_id>pd1</product_id>
+    <year>2019</year>
+    <amount>4000</amount>
+  </row>
+</root>

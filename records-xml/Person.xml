@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <person_id>ps1</person_id>
+    <first_name>clara</first_name>
+    <last_name>hass</last_name>
+    <phone>8394724</phone>
+  </row>
+  <row>
+    <person_id>ps2</person_id>
+    <first_name>dwaine</first_name>
+    <last_name>mitchell</last_name>
+    <phone>8938422</phone>
+  </row>
+  <row>
+    <person_id>ps3</person_id>
+    <first_name>jadeja</first_name>
+    <last_name>ashwin</last_name>
+    <phone>9374242</phone>
+  </row>
+</root>

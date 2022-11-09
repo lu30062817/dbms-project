@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <category_id>cat1</category_id>
+    <name>home decor</name>
+    <description>things used in decorating home</description>
+  </row>
+  <row>
+    <category_id>cat2</category_id>
+    <name>figurine</name>
+    <description>stand still toys of persons</description>
+  </row>
+  <row>
+    <category_id>cat3</category_id>
+    <name>weapons</name>
+    <description>plastic weapons</description>
+  </row>
+</root>

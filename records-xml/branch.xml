@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <branch_id>b1</branch_id>
+    <name>blue spring</name>
+    <location>dallas</location>
+    <product_id>pd2</product_id>
+    <person_id>ps1</person_id>
+  </row>
+  <row>
+    <branch_id>b2</branch_id>
+    <name>white halo</name>
+    <location>new york</location>
+    <product_id>pd3</product_id>
+    <person_id>ps3</person_id>
+  </row>
+  <row>
+    <branch_id>b3</branch_id>
+    <name>clear night</name>
+    <location>washington</location>
+    <product_id>pd1</product_id>
+    <person_id>ps2</person_id>
+  </row>
+</root>

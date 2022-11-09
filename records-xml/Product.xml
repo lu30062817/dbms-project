@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <product_id>pd1</product_id>
+    <name>sea king doll</name>
+    <cost>95</cost>
+    <category_id>cat2</category_id>
+  </row>
+  <row>
+    <product_id>pd2</product_id>
+    <name>water curtain</name>
+    <cost>40</cost>
+    <category_id>cat1</category_id>
+  </row>
+  <row>
+    <product_id>pd3</product_id>
+    <name>water shield</name>
+    <cost>150</cost>
+    <category_id>cat3</category_id>
+  </row>
+</root>
